@@ -23,12 +23,6 @@ Dataset includes soil type, N-P-K content, temperature, rainfall, and irrigation
 
 
 
----
-
-📁 Repository Structure
-
-![Alt Text](C:\Users\ishab\Downloads)
-
 
 ---
 
@@ -110,3 +104,4 @@ Web/mobile app version of the GUI
 📄 Developed By -
 
 Anshika Semwal
+

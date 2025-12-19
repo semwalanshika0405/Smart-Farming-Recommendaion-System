@@ -130,9 +130,5 @@ Web/mobile app version of the GUI
 
 📄 Developed By -
 
-    Anshika Semwal
-
-
-
 Anshika Semwal
-BCA (AI & DS) Student
+
